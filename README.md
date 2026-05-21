@@ -34,9 +34,10 @@
 
 Open your terminal and run the following commands:
 
-```bash
-# Update and upgrade packages
-apt update && apt upgrade -y
+   ```bash
+   # Update and upgrade packages
+   apt update && apt upgrade -y
+```
 
 # Install Python
 apt install python -y
