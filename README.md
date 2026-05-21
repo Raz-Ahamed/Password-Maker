@@ -41,5 +41,17 @@ cd Password-Maker-main
 
 # Run the tool
 python main.py
+
+📝 Usage
+Run the script using python main.py.
+
+Follow the on-screen prompts to enter target details (First Name, Last Name, Nickname, etc.).
+
+You can press Enter to skip any field you do not wish to provide.
+
+The generated wordlist will be saved in the same directory with a timestamped filename (e.g., passlist_YYYY-MM-DD_HH-MM-SS.txt).
+
+⚠️ Disclaimer
+This tool is intended for educational purposes and authorized penetration testing only. The developer is not responsible for any misuse. Always ensure you have explicit permission before testing any system.
    ```bash
    python main.py
