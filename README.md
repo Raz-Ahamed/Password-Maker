@@ -30,7 +30,7 @@
 
 ```
 
-Linux & Termux
+### Linux & Termux
 
 Open your terminal and run the following commands:
 
