@@ -21,7 +21,9 @@
 ### Windows
 1. Ensure [Python](https://www.python.org/downloads/) is installed on your system.
 2. Open your Command Prompt (CMD) or PowerShell in the project folder.
-3. Run the script:
+Run the script:
+   ```bash
+   python main.py
 
 
 Linux & Termux
