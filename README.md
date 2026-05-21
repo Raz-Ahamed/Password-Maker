@@ -30,16 +30,20 @@ Linux & Termux
 Open your terminal and run the following commands:
 
 # Update and upgrade packages
+```bash
 apt update && apt upgrade -y
 
 # Install Python
+```bash
 apt install python -y
 
 # Clone the repository
+```bash
 git clone [https://github.com/YOUR_GITHUB_USERNAME/Password-Maker-main](https://github.com/YOUR_GITHUB_USERNAME/Password-Maker-main)
 cd Password-Maker-main
 
 # Run the tool
+```bash
 python main.py
 
 📝 Usage
@@ -53,5 +57,3 @@ The generated wordlist will be saved in the same directory with a timestamped fi
 
 ⚠️ Disclaimer
 This tool is intended for educational purposes and authorized penetration testing only. The developer is not responsible for any misuse. Always ensure you have explicit permission before testing any system.
-   ```bash
-   python main.py
