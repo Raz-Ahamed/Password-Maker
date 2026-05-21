@@ -1,5 +1,5 @@
 
-```html
+
 <div align="center">
 
 # Password Maker 🛡️
